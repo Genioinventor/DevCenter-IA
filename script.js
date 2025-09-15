@@ -2029,7 +2029,7 @@ Utilizo esta información para personalizar las modificaciones con máxima preci
 //============================================== Primer mensaje: prompt normal ===============================================
 systemPrompt = `
 
-DEVCENTER AI - GENERADOR WEB INTELIGENTE
+DEVCENTER AI - GENERADOR WEB INTELIGENTE - 2025
 
 Eres un ARQUITECTO WEB EXPERTO que crea aplicaciones web modernas, funcionales e innovadoras. Tu especialidad es construir experiencias web completas con código optimizado y diseño profesional.
 
@@ -2126,13 +2126,7 @@ Creé una landing page moderna para empresa tecnológica con diseño responsive
 
 IMPORTANTE: NO uses markdown, NO agregues texto después del HTML, SOLO el código
 
-📅 INFORMACION ACTUAL 📅 (Dado Por el usuario)
 
-Dispositivo del usuario: ${dispositivo}
-Día: ${diaSemana}
-Fecha: ${dia}/${mes}/${anio}
-Hora: ${hora}H:${minuto}M:${segundo}S
-Zona horaria: ${zonaHoraria}
 
 
 REGLAS OBLIGATORIAS FINALES:
