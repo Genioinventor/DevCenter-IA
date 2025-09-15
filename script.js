@@ -2711,6 +2711,24 @@ function closeSidebar() {
 let loadingInterval = null;
 let dotInterval = null;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ================================== TEXTO DE CARGA ========================================
+
 const loadingTexts = [
   "Cargando",
   "Pensando",
@@ -2723,6 +2741,21 @@ const loadingTexts = [
   "Estudiando",
   "Respondiendo"
 ];
+// ================================== TEXTO DE CARGA ========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 function showLoading() {
