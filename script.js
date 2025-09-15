@@ -9,7 +9,7 @@ const RESET_LIMIT_MINUTES = 30; // Tiempo en minutos para restablecer el límite
 const AVISO_ACTIVO = true; // <--- Cambia a true para mostrar el aviso
 const AVISO_TITULO = "¡DevCenter 4.1!"; // <--- Título del aviso
 const AVISO_DESCRIPCION = "Esta actualización corrige errores y mejora la generación de páginas web, ajustando el diseño automáticamente al tema claro u oscuro del dispositivo."; // <--- Descripción del aviso
-const AVISO_VECES_MOSTRADAS = 0; // <--- Cuántas veces se mostrará el aviso al usuario (0 = infinitas veces)
+const AVISO_VECES_MOSTRADAS = 1; // <--- Cuántas veces se mostrará el aviso al usuario (0 = infinitas veces)
 // ===========================================================================
 
 // ================= CONFIGURACIÓN DE GENERACIÓN INTELIGENTE ================
