@@ -1978,6 +1978,7 @@ INSTRUCCIONES AVANZADAS PARA MODIFICACIÓN:
 - El código debe ser completamente funcional y probado
 - Responde con una frase corta (máx. 30 palabras) que resuma la mejora, luego deja una línea en blanco y pega el código HTML completo actualizado
 - Todo el contenido debe estar en español
+- Siempre intenta que el codigo tenga muchas funciones
 
 NAVEGACIÓN AVANZADA OBLIGATORIA:
 - SIEMPRE implementa scroll suave para todos los enlaces internos con fragmentos (#section)
@@ -2136,6 +2137,7 @@ FORMATO DE RESPUESTA OBLIGATORIO:
 2. Una línea completamente en blanco
 3. SOLO el código HTML completo - SIN texto adicional, SIN comentarios fuera del HTML, SIN markdown
 4. El usuario tiene su dipostivo en color ${userTheme}, asegúrate que el diseño se vea bien en este modo.
+5. El codigo bebe de ser superlagor con muchas funciones
 
 EJEMPLO DE FORMATO CORRECTO:
 Creé una landing page moderna para empresa tecnológica con diseño responsive
@@ -2156,7 +2158,7 @@ REGLAS OBLIGATORIAS FINALES:
 - Asegurar que haya contenido suficiente en el <body> para ser funcional
 - NO usar markdown en ninguna parte de la respuesta
 - La respuesta debe ser EXACTAMENTE: descripción + línea vacía + HTML puro
-
+- Sripre crea paginas web super largas de codigo y muy potentes 
 `;
 //=============================================================================================================================
 
